@@ -1,2 +1,3 @@
 # Surface-Detector
-# Artificial-Intelligence-Course-Projects
+
+An Android application that detects surface wrinkles using gyroscope and accelerometer sensors.
